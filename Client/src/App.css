@@ -1,0 +1,118 @@
+body {
+    background-color: rgb(43, 43, 43);
+}
+
+.container {
+    width: 300px;
+    margin: 10vh auto;
+    padding: 20px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 0;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="password"] {
+    width: 92.5%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  
+  .error {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+    text-align: center;
+  }
+
+
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .input input[type="text"] {
+    width: 480px;
+    padding: 5px;
+    margin-right: 10px;
+    
+  }
+  
+  button {
+    padding: 8px 12px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  li input[type="text"] {
+    width: 150px;
+    padding: 5px;
+    margin-right: 10px;
+    
+  }
+  
+  .logout-button {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .logout-button button {
+    background-color: #dc3545;
+  }
+  
+  .logout-button button:hover {
+    background-color: #b02a37;
+  }
+
+  .todo-container {
+    width: 500px;
+    margin: 10vh auto;
+    padding: 20px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+  }
